@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Photo fun</string>
+    <string name="latest">#Latest</string>
+    <string name="abs">#Abstract</string>
+    <string name="animals">#Animals</string>
+    <string name="beauty">#Beauty</string>
+    <string name="cars">#Cars</string>
+    <string name="nature">#Nature</string>
+    <string name="bnw">#BlackNwhite</string>
+    <string name="quotes">#Quotes</string>
+    <string name="travel">#Travel</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
