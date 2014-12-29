@@ -115,7 +115,7 @@ public class GridScrollListener implements AbsListView.OnScrollListener {
             mProgressDialog.setIndeterminate(false);
             // Show progressdialog
             mProgressDialog.show();
-            Parse.initialize(context, "fpvG3SBSIMDbggmqyh0Pg6mjVJNmrKFqtaLOJ3Pd", "H0zLjZ9Pa9IQWmciRZCLf9h1Hk2oQOT2H9AAnvLt");
+            Parse.initialize(context, "xxx", "xxx");
 
             ParseUser.enableAutomaticUser();
             ParseACL defaultACL = new ParseACL();
